@@ -46,7 +46,7 @@ export interface BrandConfig {
 export const defaultBrandConfig: BrandConfig = {
   companyName: "火山引擎",
   productName: "端到端语音对话体验",
-  logoUrl: "/logo.svg",
+  logoUrl: "/meeta-logo.png",
   logoAlt: "Logo",
   
   primaryColor: "#004FFF",
